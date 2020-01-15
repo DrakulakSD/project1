@@ -1,0 +1,323 @@
+﻿body {
+    margin: 50px;
+    padding: 0px;
+    background: url(images/img08.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: white;
+}
+.container {
+    height: 50px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #151414;
+    border:double #201082;
+}
+nav ul{
+    margin:0px;
+    padding-left:10px;
+    padding-bottom:0px;
+    padding-right:0px;
+    padding-top:0px;
+}
+li {
+    display: block;
+    float: left;
+}
+a {
+    display:block;
+    float:left;
+    margin:1px;
+    padding-top:20px;
+    padding-right:15px;
+    padding-left:15px;
+    padding-bottom:15px;
+    font:normal;
+    font-size:12px;
+    font-weight:bold;
+    color:white;
+    text-decoration:none;
+}
+ul li a:hover {
+    background: #201082 ;
+    color:white;
+}
+.container2 {
+    height: 60px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:10px;
+    padding-left:0px;
+    padding-bottom:20px;
+    padding-right:0px;
+}
+h1, h2 {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-transform: uppercase;
+}
+h2 {
+    position:absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+    float: left;
+    
+}
+#banner img {
+    width: 800px;
+    height: 230px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+}
+.container3 {
+    width: 740px;
+    height: 810px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    background-color: #151414;
+    border: double #201082;
+}
+section{
+    float:left;
+    width:470px;
+}
+ article.one-column {
+     padding-top:2px;
+     padding-right:0px;
+     padding-bottom:20px;
+     padding-left:0px;
+     margin-bottom:20px;
+ }
+h3 {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border-left: 8px solid #201082;
+    font-size: 22px;
+    color: white;
+}
+div.time {
+    border-left: 8px solid #201082;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+    font-size: 10px;
+    color: #897B7B;
+}
+div.full {
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+div.full p a{
+    float:left;
+    margin:0;
+    padding-top:15px;
+    padding-left:0px;
+    color:white;
+    text-decoration:underline;
+    font-size:14px;
+}
+    div.full p a:hover {
+        background: #201082;
+        color: white;
+    }
+
+.container3 aside {
+    float: left;
+    width: 210px;
+    margin: 0px;
+    padding: 0px;
+}
+    aside ul {
+        margin: 0px;
+        padding: 0px;
+        list-style-type: none;
+    }
+        aside ul li {
+            margin-bottom: 40px;
+        }
+            aside ul li h5 {
+                width: 250px;
+                margin-bottom: 10px;
+                padding-left: 10px;
+                border-left: 8px solid #201082;
+                font-size: 18px;
+                color: white;
+            }
+h5[Търсене]{
+    margin-bottom:20px;
+}
+aside ul li form {
+    margin: 0px;
+    padding: 0px;
+}
+    aside ul li form input, button {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+        aside ul li form input[type=text] {
+            width: 150px;
+            margin-right: 5px;
+            margin-left: 20px;
+            padding: 2px;
+        }
+        aside ul li form input[type=submit] {
+            width: 50px;
+            height: 20px;
+        }
+div.option{
+    margin:0px;
+    padding-left:20px;
+    text-decoration:underline;
+}
+div.option a{
+    font-size:12px;
+    margin-left:20px;
+    margin-right:20px;
+    padding:20px;
+}
+footer {
+    height: 50px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background: #151414;
+    border: double #201082;
+}
+    footer p {
+        font-size: 11px;
+        text-align: center;
+        color: white;
+    }
+div.pagecontacts {
+    background-color: #151414;
+    width: 800px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    border: double #201082;
+}
+h6{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:15px;
+    margin-bottom:0px;
+    padding:20px;
+    font-family:'Times New Roman';
+    font-size:22px;
+    color:white;
+}
+h7 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding:20px;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    color: white;
+}
+div.pageforma form input[type=text] {
+    width: 720px;
+    height:40px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-top:15px;
+    margin-bottom:20px;
+}
+div.pageforma form input[type=email] {
+    width: 720px;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+div.pageforma form input[type=url] {
+    width: 720px;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+div.pageforma form input[type=submit] {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width:80px;
+    height:40px;
+}
+div.Us {
+    background-color: #151414;
+    height: 500px;
+    width: 770px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    border: double #201082;
+}
+div.Us section{
+    margin:0;
+    padding:0;
+}
+h8 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman';
+    font-size: 35px;
+    color: white;
+}
+
+div.address p {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    font-family: Calibri;
+    font-style:italic;
+    font-size: 18px;
+    color: white;
+}
+div.Us aside{
+    margin:0px;
+    padding:0px;
+}
+   
